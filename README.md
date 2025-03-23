@@ -1,2 +1,2 @@
-# tournament_director
-This a web app for organize chess tournament
+# USCF Tournament Platform
+A professional platform to organize USCF-compliant chess tournaments.
