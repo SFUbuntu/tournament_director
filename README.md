@@ -1,2 +1,2 @@
-# USCF Tournament Platform
-A professional platform to organize USCF-compliant chess tournaments.
+# Ultimate Tournament Chess Director - DEMO
+This is a functional demo version for testing and feedback.

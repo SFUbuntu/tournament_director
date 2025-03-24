@@ -1,11 +1,9 @@
-import React from "react";
-import { LanguageSelector, EmailReportForm } from "./components";
-
 const App = () => {
   return (
-    <div className="p-6">
-      <LanguageSelector />
-      <EmailReportForm tournamentName="USCF Tournament" />
+    <div style={{ padding: "1rem" }}>
+      <h2>Welcome, Director</h2>
+      <p>This demo will simulate a full tournament flow including flyers, registrations, pairings, results, and exports.</p>
+      <p>The dashboard and tournament modules are being integrated now.</p>
     </div>
   );
 };
